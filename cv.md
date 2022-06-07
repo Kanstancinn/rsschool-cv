@@ -30,7 +30,7 @@ I have an adequate attitude to criticism, learn quickly and do not like to stand
 ### Code exemple
 
 ~~~
-<div class="first"><div>
+<div class="first">hello world!<div>
 ~~~
 
 ---
